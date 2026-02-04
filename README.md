@@ -3,26 +3,28 @@
 This repo is used by the organisers fo the 2026 TRE Communities Conference to plan and organise delivery. The conference website will be managed from a separate repo (TBC).
 
 ## Important organiser information
+
+### Using this repo
+This repository contains files and information relevant to planning this event, organised as below.
+This repository is public and contains no confidential information. 
+Confidential information is shared with the organisers in a restricted access Google Drive.
+
 - [Google drive](https://drive.google.com/drive/folders/1B93XH3sDz2uMsZkn1Vtoz_bBKZirKOD-?usp=sharing) (for sheets, surveys, internal information) - Access restricted to organisers only
 - [CryptDrive meeting notes - view only](https://cryptpad.fr/code/#/2/code/view/Avf29+w00EINczMKnYr66pvIAe3vdSPeJU6nRTIhCoc/) (no internal or confidential information). Meeting notes are happening in cryptdrive (and not google docs) so they can be more directly archived in this repo.
 
-### Using this repo
 
+```
 ├── admin-legal/          # Contracts, insurance, and NDAs (signposting to google drive for confidential information)
-
 ├── assets/               # Master brand files (shared with the web repo)
-
 ├── comms/                # Email templates, press releases, social copy
-
 ├── finance/              # Budgets, sponsorships, and grants (signposting to google drive for confidential information)
-
 ├── logistics/            # Venue maps, AV requirements, catering
-
 ├── programming/          # Speaker tracking, abstracts, and schedule
-
 ├── project-management/   # Milestones, meeting notes, and timelines
-
 └── README.md             # The Vision/Mission and high-level overview
+```
+
+The agenda for meetings is set via the repo [issues](https://github.com/TRE-Communities-Conference/2026-planning/issues) and the associated [project board](https://github.com/orgs/TRE-Communities-Conference/projects/1/views/1)
 
 
 # Vision and Mission
