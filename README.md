@@ -9,12 +9,19 @@ This repo is used by the organisers fo the 2026 TRE Communities Conference to pl
 ### Using this repo
 
 ├── admin-legal/          # Contracts, insurance, and NDAs (signposting to google drive for confidential information)
+
 ├── assets/               # Master brand files (shared with the web repo)
+
 ├── comms/                # Email templates, press releases, social copy
+
 ├── finance/              # Budgets, sponsorships, and grants (signposting to google drive for confidential information)
+
 ├── logistics/            # Venue maps, AV requirements, catering
+
 ├── programming/          # Speaker tracking, abstracts, and schedule
+
 ├── project-management/   # Milestones, meeting notes, and timelines
+
 └── README.md             # The Vision/Mission and high-level overview
 
 
