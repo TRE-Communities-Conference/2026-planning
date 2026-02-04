@@ -58,10 +58,18 @@ This project is licensed under the CC-BY-4.0 License for materials and an MIT Li
 
 - Please contact cassandra.gouldvanpraag@rcmcooperative.com for any questions and enquiries. 
 
-## Contributors ✨
+## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these people for their support in organising this event ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
@@ -73,7 +81,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
+- [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
 - [ ] Create a directory with files for project management (meetings, reports)
 - [x] Create directories for other materials relevant to organising
