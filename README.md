@@ -13,7 +13,7 @@ This repo is used by the organisers fo the 2026 TRE Communities Conference to pl
 - [ ] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
+- [x] .gitignore file (choose from a template)
 - [ ] Create a directory with files for project management (meetings, reports, proposals)
 - [ ] Create a directory for documentation
 - [ ] Include acknowledgement of TTW reproducible project template 
