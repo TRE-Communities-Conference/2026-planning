@@ -10,7 +10,8 @@ This repository is public and contains no confidential information.
 Confidential information is shared with the organisers in a restricted access Google Drive.
 
 - [Google drive](https://drive.google.com/drive/folders/1B93XH3sDz2uMsZkn1Vtoz_bBKZirKOD-?usp=sharing) (for sheets, surveys, internal information) - Access restricted to organisers only
-- [CryptDrive meeting notes - view only](https://cryptpad.fr/code/#/2/code/view/Avf29+w00EINczMKnYr66pvIAe3vdSPeJU6nRTIhCoc/) (no internal or confidential information). Meeting notes are happening in cryptdrive (and not google docs) so they can be more directly archived in this repo.
+- [CryptDrive meeting notes - view only](https://cryptpad.fr/code/#/2/code/view/Avf29+w00EINczMKnYr66pvIAe3vdSPeJU6nRTIhCoc/) (**no internal or confidential information**). Meeting notes are happening in cryptdrive (and not google docs) so they can be more directly archived in this repo.
+- [CryptDrive for live editing of docs to be archived in this repo](https://cryptpad.fr/drive/#/2/drive/view/1Niev05WDtZvCmhjYwSYZMluUHevY5hbPP4JheZKcZk/) (**no internal or confidential information**)
 
 
 ```
