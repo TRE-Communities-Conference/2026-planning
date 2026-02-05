@@ -93,7 +93,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
-- [ ] Create a directory with files for project management (meetings, reports)
+- [x] Create a directory with files for project management (meetings, reports)
 - [x] Create directories for other materials relevant to organising
 - [ ] Include acknowledgement of TTW reproducible project template 
 - [ ] Connect repo with Zenodo
