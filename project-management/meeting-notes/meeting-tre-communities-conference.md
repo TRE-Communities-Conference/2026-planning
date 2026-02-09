@@ -1,5 +1,4 @@
-﻿
-# Running meeting notes
+﻿# Running meeting notes
 
 
 **Live notes on cryptpad** (view only link): https://cryptpad.fr/code/#/2/code/view/Avf29+w00EINczMKnYr66pvIAe3vdSPeJU6nRTIhCoc/
@@ -24,6 +23,99 @@
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+# Meeting 2026-02-05
+## Attendees
+- Cass
+- Simon
+- Lizzie 
+- Neha 
+- Felix
+- Jenny
+
+
+## Apologies
+## Notes
+- Using github
+  - <mark>Current Github Users to add</mark> - done
+    - Simon: [manics](https://github.com/manics/)
+    - Lizzie: https://github.com/es-green
+    - Jennyhttps://github.com/JJohnstonUoD
+  - Onboarding required
+    - Leigh
+    - Neha
+- Folks not currently on github wouldn't be required to interact with it if they don't have capacity to learn new tech :).
+  - We will make sure information flows
+  
+
+### Venue
+- Neha has informed EFI folks of the request (submitted 23rd Jan)
+- Teaching for the next academmic year has not been confirmed  
+- <mark>This groups should set a timeline for when we need to move on venue</mark>
+- Great venue
+- Felix has an alternate venue 
+  - Main room with 100 people easily, plus breakout rooms
+  - <mark>Felix could send an initial enquiry to look at availabilty and costs</mark>
+  
+### Submissions of EOIs
+- Really engaged repsonse - 32!
+- Maybe a couple which don't fit 
+- Some emergent structure
+  - Which are specialist sessions
+  - Which are more general interest (plenary)
+  - Which can be combined together
+- <mark>Create a programme committee to review and suggests a structure</mark>
+  - then report back
+  - everyone should now review 
+- Not going to hold spaces for interst groups (all have received the EOI)
+- Do we want to hand over more of the decision making on this to the community?
+  - Some sort of poll
+  - Would need to mitigate bias in responding
+  - Would intorduce a delay
+  - risk of people not voting...
+- Suggestion to triage ourselves
+  - Then open to poll of plenary vs parallel
+  - Will also help understand room logistics
+- open up to posters
+- Remembering satellites
+- morning: 1h plenary + 3 breakouts
+- afternoon: 1h plenary + 3 breakouts
+- Posters
+  - Difficult to do hybrid
+  - Maybe a text based interaction only
+  - Lightning talks as alternative (easier to do online)
+  - Cass used https://www.hyhyve.com to set up a virtual poster room
+- Breakouts last year weren't hybrid
+- Maybe a seperate online sessions
+- Edinburgh AV it well set up for hybrid
+
+
+### Treasurer
+- Oversite was difficult last year
+- Last year organisers each had sperate pots
+- Struggle will be to get it through university infrastucture
+- Finacial year end in July
+- Not able to hold funds:
+  - Leigh
+  - Cass
+- <mark>What is the finaicial plan</mark>
+  - Costs
+  - Available funds
+  - Sponsorship
+  - <mark>Cass set up a template and circulate</mark> - done
+  
+
+
+### Logistics
+- <mark>Cass to update full google drive access to based on the email addresses from the spread sheet</mark> - done
+- [join slack](https://join.slack.com/t/uktrecommunity/shared_invite/zt-2gep86apc-QMLyIdrC2oIIsxTRzLxUqA)
+  
+  
+ 
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+
 
 
 # Meeting 2026-01-22 
@@ -40,9 +132,7 @@
 - Elizabeth elizabeth7.green@uwe.ac.uk
 
 
-
 ## Apologies
-
 
 ## Notes
 - Agenda
@@ -86,14 +176,14 @@
     - Expressions of interest to lead a session/workshop
         - Aiming to get people to come up with coherent sesisons rather than a braod call for papers
         - [Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSewwAHMnMCMoalToilw81I6Luo0c3p0-wiw4rpOI4gL21X7Rg/viewform?usp=dialog)
-        - Send out a reminder
+        - <mark>Simon: Send out a reminder via UK TRE mailing list</mark> - done
     - Do we want to have community reivew of EoI?
     - Sesion organisers would be responsible for selecting and reviewing content
         - No submission platform managed centrally
     - Want a mixture of interactive sessions
 - EoI topics so far
     - <mark>add summary</mark>
-        - <mark>Cass/Simon make sure folks have access to answers and circulate</mark>
+        - <mark>Cass/Simon make sure folks have access to answers and circulate</mark> - done. Added to [google drive](https://docs.google.com/spreadsheets/d/1c_aA1Ko9dCHnYI-fWRl3JGoJjHA0YDtg/edit?usp=sharing&ouid=100098223339378762434&rtpof=true&sd=true)
 - We might need to provide some support to session organisers to make sure they are high quality offerings
 - Send out some targetted invites to submit EoI 
     - <mark>Cass: Get DARE to circulate to interest groups, cc Simon</mark>
@@ -122,6 +212,7 @@
         - <mark>Neha will inviestigate</mark>
             - Noting this would require resourcing
     - [OLS](http://we-are-ols.org/) could manage for 15% overhead
+      - <mark>Cass to confirm</mark> - done. OLS not able to manage funds
 - Other venues might come with an events manager, etc. 
 - What was money spent on
     - Burseries (came out of commuity group grants)
